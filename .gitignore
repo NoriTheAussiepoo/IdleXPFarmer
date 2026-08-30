@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+
+# Private/local files
+prv/
+*.prv
+.prv
+afk_wasd_v1.0.prv.pyw
+
+*.log
+desktop.ini
+dist/
+build/
