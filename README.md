@@ -1,4 +1,4 @@
-# WASD Pulse
+# Idle XP Farmer
 
 A tiny Windows-friendly Tkinter utility that sends randomized WASD key presses through `pyautogui`.
 
