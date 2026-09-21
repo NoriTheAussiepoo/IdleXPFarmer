@@ -42,4 +42,6 @@ You are responsible for how you use this tool. Do not use it with software, game
 
 ## License
 
-This project is licensed under the PolyForm Noncommercial License 1.0.0. See [LICENSE](LICENSE).
+Copyright 2026 Hazel Saliceta.
+
+This project is licensed under the PolyForm Noncommercial License 1.0.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
